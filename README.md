@@ -3,6 +3,7 @@
 **Henrik Edstrand**
 - 👨‍🎓 M.Sc. in Industrial Engineering and Business Management, Chalmers
 - 🌱 I’m currently learning Node.js
+- 💬 Ask me about Java, Python, Javascript, SQL, JSON, Postgres, Agile
 - 📫 How to reach me: henrik.edstrand@me.com
 
 <!--
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
